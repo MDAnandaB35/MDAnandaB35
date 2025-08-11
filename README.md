@@ -1,6 +1,5 @@
-<p align="center">
-  ![Bocchi The Rock Bocchi Blender](https://media.tenor.com/F0j3_Dk-rY4AAAAd/bocchi-the-rock-bocchi.gif)
-</p>
+![Bocchi The Rock Bocchi Blender](https://media.tenor.com/F0j3_Dk-rY4AAAAd/bocchi-the-rock-bocchi.gif)
+
 
 <h3 align="center">Hello! I'm MDAnandaB</h3>
 
