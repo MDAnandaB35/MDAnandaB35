@@ -2,9 +2,11 @@
   <img src="boccher.gif" alt="Bocchi The Rock Bocchi Blender" />
 </div>
 
-<h3 align="center">Hello! I'm MDAnandaB</h3>
+<h3 align="center">she's just like me frfr</h3>
 
 ---
+
+<h3>Professional Procrastinator</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MDAnandaB35/MDAnandaB35/output/github-snake-dark.svg" alt="Snake animation"/>
