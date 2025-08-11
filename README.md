@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZmMmtzNzhxaHptYTFmcXJ4MmFwMGZqdWlxaDB1aHN4N3UzbDJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="600"/>
+  <img src="https://tenor.com/view/bocchi-the-rock-bocchi-blender-anime-gif-27260206" alt="Coding Banner" width="600"/>
 </p>
 
-<h3 align="center">Hi there, I'm Ananda! 👋</h3>
+<h3 align="center">Hello! I'm MDAnandaB</h3>
 
 ---
 
