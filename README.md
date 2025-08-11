@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   ![Bocchi The Rock Bocchi Blender](boccher.gif)
-</p>
+</div>
 
 <h3 align="center">Hello! I'm MDAnandaB</h3>
 
