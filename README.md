@@ -6,8 +6,8 @@
 
 ---
 
+<h3 align="center">Professional Procrastinator</h3>
 <p align="center">
-  <h3>Professional Procrastinator</h3>
   <img src="https://raw.githubusercontent.com/MDAnandaB35/MDAnandaB35/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
