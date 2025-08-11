@@ -1,5 +1,6 @@
-![Bocchi The Rock Bocchi Blender](boccher.gif)
-
+<p align="center">
+  ![Bocchi The Rock Bocchi Blender](boccher.gif)
+</p>
 
 <h3 align="center">Hello! I'm MDAnandaB</h3>
 
