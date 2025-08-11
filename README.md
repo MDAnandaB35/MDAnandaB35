@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/-6srAEFCoXYAAAAC/bocchi-the-rock-bocchi.gif" alt="Coding Banner" width="600"/>
+  ![A descriptive alt text for your GIF](https://tenor.com/b0xMU.gif)
 </p>
 
 <h3 align="center">Hello! I'm MDAnandaB</h3>
