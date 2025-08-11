@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/bocchi-the-rock-bocchi-blender-anime-gif-27260206" alt="Coding Banner" width="600"/>
+  <img src="https://media1.tenor.com/m/-6srAEFCoXYAAAAC/bocchi-the-rock-bocchi.gif" alt="Coding Banner" width="600"/>
 </p>
 
 <h3 align="center">Hello! I'm MDAnandaB</h3>
