@@ -1,5 +1,5 @@
 <p align="center">
-  ![A descriptive alt text for your GIF](https://tenor.com/b0xMU.gif)
+  ![Bocchi The Rock Bocchi Blender](https://media.tenor.com/F0j3_Dk-rY4AAAAd/bocchi-the-rock-bocchi.gif)
 </p>
 
 <h3 align="center">Hello! I'm MDAnandaB</h3>
