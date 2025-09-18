@@ -1,8 +1,8 @@
+<h3 align="center">she's just like me frfr</h3>
+
 <div align="center">
   <img src="boccher.gif" alt="Bocchi The Rock Bocchi Blender" />
 </div>
-
-<h3 align="center">she's just like me frfr</h3>
 
 ---
 
