@@ -12,8 +12,3 @@
 </p>
 
 ---
-
-<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDAnandaB35&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
